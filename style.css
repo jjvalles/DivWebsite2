@@ -6,34 +6,41 @@
 }
 
 .headertop {
-    height: 20px;
-    background-color: lightcoral;
+    width:750px;
+    height:50px;
+    background-color: mediumspringgreen;
 }
 
 .headerbottom {
-    height: 20px;
-    background-color: thistle;
+    width:750px;
+     height:50px;
+    background-color: lightsteelblue
 }
 
 .columnleft {
+    width: 50px;
     height:500px;
     float:left;
-    background-color: lightcyan;
+    background-color:red;
 }
 
 .columncenter {
+    width:650px;
     height: 500px;
     float:left;
-    background-color: hotpink;
+    background-color: lightpink;
 }
 
 .columnright {
+    width: 50px;
     height:500px;
     float:left;
-    background-color:darkblue;
+    background-color: deepskyblue;
 }
 
 .footer {
-    background-color:aquamarine;
+    background-color: darkcyan;
+    width:750px;
+    height:50px;
     clear:left;
 }
