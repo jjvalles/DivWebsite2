@@ -7,8 +7,9 @@
 
 .headertop {
     width:750px;
-    height:25px;
+    height:50px;
     background-color: mediumspringgreen;
+    font-family: cursive;
 }
 
 .headerbottom {
