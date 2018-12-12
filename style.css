@@ -7,14 +7,14 @@
 
 .headertop {
     width:750px;
-    height:50px;
+    height:25px;
     background-color: mediumspringgreen;
 }
 
 .headerbottom {
     width:750px;
-     height:50px;
-    background-color: lightsteelblue
+     height:25px;
+    background-color: lightsteelblue;
 }
 
 .columnleft {
@@ -28,7 +28,7 @@
     width:650px;
     height: 500px;
     float:left;
-    background-color: lightpink;
+    background-color: plum;
 }
 
 .columnright {
