@@ -7,33 +7,40 @@
 
 .headertop {
     height: 20px;
+    width:750px;
     background-color: lightcoral;
 }
 
 .headerbottom {
     height: 20px;
+    width:750px;
     background-color: thistle;
 }
 
 .columnleft {
     height:500px;
+    width:100px;
     float:left;
     background-color: lightcyan;
 }
 
 .columncenter {
     height: 500px;
+    width:550px;
     float:left;
     background-color: hotpink;
 }
 
 .columnright {
     height:500px;
+    width:100px;
     float:left;
     background-color:darkblue;
 }
 
 .footer {
     background-color:aquamarine;
+    height:25px;
+    width:750px;
     clear:left;
 }
