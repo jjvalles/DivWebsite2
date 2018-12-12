@@ -9,7 +9,8 @@
     width:750px;
     height:50px;
     background-color: mediumspringgreen;
-    font-family: cursive;
+    font-family:'PT Sans', sans-serif;
+
 }
 
 .headerbottom {
@@ -30,6 +31,7 @@
     height: 500px;
     float:left;
     background-color: plum;
+    font-family: 'Playfair Display', serif;
 }
 
 .columnright {
@@ -44,4 +46,8 @@
     width:750px;
     height:50px;
     clear:left;
+}
+
+body {
+    background-image:url(ep_naturalblack.png);
 }
